@@ -1,4 +1,4 @@
-   # GreenLife_Project_V1.0
+# GreenLife_Project_V1.0
 GreenLife – Smart Environmental Impact Dashboard
 Here is a step-by-step guide to run your project easily when you clone this project file:
 
