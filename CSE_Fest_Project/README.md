@@ -1,4 +1,4 @@
-  # 🌱 GreenLife – Smart Environmental Impact Dashboard
+# 🌱 GreenLife – Smart Environmental Impact Dashboard
 
 Welcome to GreenLife, a web-based system that allows users to calculate their daily carbon footprint based on vehicle and electricity usage. The system visualizes the results, provides AI-generated recommendations for improvement, and stores historical data in a MySQL database.
 
