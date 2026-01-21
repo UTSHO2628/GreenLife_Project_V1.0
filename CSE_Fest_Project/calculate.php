@@ -16,7 +16,7 @@
 // 8. Stores the results in the $_SESSION superglobal.
 // 9. Redirects the user to `result.php` to display the results.
 
-// Start a session to pass the calculation results to the result page.
+ // Start a session to pass the calculation results to the result page.
 session_start();
 
 // Include the database configuration file. This establishes the $mysqli connection.
