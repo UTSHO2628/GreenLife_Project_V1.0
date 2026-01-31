@@ -12,7 +12,7 @@
 // 4. Retrieves and sanitizes user inputs (`car_km`, `elect_hours`).
 // 5. Constructs and executes a shell command to run the Python script (`calculate.py`).
 // 6. Captures and decodes the JSON output from the Python script.
-// 7. Inserts the inputs and results into the MySQL database.
+// 7. Inserts the inputs and results into the MySQL database..
 // 8. Stores the results in the $_SESSION superglobal..
 // 9. Redirects the user to `result.php` to display the results..
 
