@@ -6,7 +6,7 @@
 // This script acts as the central controller for the calculation process.
 //
 // HOW IT WORKS:
-// 1. Starts a session to store results for the next page.
+// 1. Starts a session to store results for the next page..
 // 2. Includes the database connection configuration..
 // 3. Validates that the request method is POST..
 // 4. Retrieves and sanitizes user inputs (`car_km`, `elect_hours`).
