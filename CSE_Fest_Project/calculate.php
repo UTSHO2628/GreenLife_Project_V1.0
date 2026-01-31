@@ -1,5 +1,5 @@
 <?php
-// GreenLife - Smart Environmental Impact Dashboard
+// GreenLife - Smart Environmental Impact Dashboard.
 //
 // FILE: calculate.php
 //
