@@ -7,7 +7,7 @@
 // It displays the input form for the user to enter their daily usage data.
 // The form submits data to `calculate.php` for processing.
 
-// Start a session to handle potential messages or data persistence if needed.
+// Start a session to handle potential messages or data persistence if needed..
 session_start();
 ?>
 <!DOCTYPE html>
