@@ -3,7 +3,7 @@
 //
 // FILE: index.php.
 //
-// This is the main landing page of the application.
+// This is the main landing page of the application..
 // It displays the input form for the user to enter their daily usage data.
 // The form submits data to `calculate.php` for processing..
 
