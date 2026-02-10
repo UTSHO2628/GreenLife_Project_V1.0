@@ -1,4 +1,4 @@
-# GreenLife_Project_V1.0
+ # GreenLife_Project_V1.0
 GreenLife – Smart Environmental Impact Dashboard
 Here is a step-by-step guide to run your project easily when you clone this project file:
 
@@ -18,4 +18,4 @@ Step 4: Run the Application in Your Browser
 
 Open your web browser (like Chrome, Firefox, or Edge).
 In the address bar, type the following URL and press Enter: 1 http://localhost/CSE_Fest_Project/
-That's it! The "GreenLife" carbon footprint calculator form should now be visible in your browser. You can enter the values and use the application. 
+That's it! The "GreenLife" carbon footprint calculator form should now be visible in your browser. You can enter the values and use the application. .
