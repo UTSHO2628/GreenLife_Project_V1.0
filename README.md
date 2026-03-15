@@ -5,7 +5,7 @@ Here is a step-by-step guide to run your project easily when you clone this proj
 Step 1: Start Your Local Server
 
 Open the XAMPP Control Panel on your computer.
-Make sure the Apache module is started (click the "Start" button)..
+Make sure the Apache module is started (click the "Start" button).
 Make sure the MySQL module is started.
 Step 2: Make Sure the Project is in the Right Place
 
