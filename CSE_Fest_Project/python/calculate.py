@@ -15,6 +15,8 @@
 #    to standard output (stdout), so the calling PHP script can capture it.
 
 import sys
+import json
+
 
 def calculate_footprint(car_km, elect_hours):
     """
