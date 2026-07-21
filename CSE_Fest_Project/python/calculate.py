@@ -17,6 +17,7 @@
 import sys
 import json
 
+def calculate_footprint(car_km, elect_hours):
     """
     Calculates the carbon footprint using a simple formula.
     Formula: footprint = (car_km * 0.21) + (elect_hours * 0.5)
