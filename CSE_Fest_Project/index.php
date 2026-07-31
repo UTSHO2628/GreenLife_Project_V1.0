@@ -20,7 +20,7 @@ session_start();
     <!-- Link to the external stylesheet for consistent styling -->
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
-
+<body>
 
     <div class="container">
         <header>
