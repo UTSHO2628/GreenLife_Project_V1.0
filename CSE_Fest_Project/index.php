@@ -1,4 +1,4 @@
-<?php
+
 // GreenLife - Smart Environmental Impact Dashboard..
 //
 // FILE: index.php.
