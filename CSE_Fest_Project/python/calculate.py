@@ -1,18 +1,3 @@
-# GreenLife - Smart Environmental Impact Dashboard
-#
-# FILE: python/calculate.py
-#
-# This script calculates the carbon footprint based on user inputs
-# and generates a simple suggestion.
-#
-# It's designed to be called from a PHP script via a system command.
-#
-# HOW IT WORKS:
-# 1. It receives two command-line arguments: car_km and elect_hours.
-# 2. It calculates the footprint using a predefined formula.
-# 3. It generates a suggestion based on the footprint's value.
-# 4. It prints the results (footprint and suggestion) as a JSON formatted string
-#    to standard output (stdout), so the calling PHP script can capture it.
 
 import sys
 import json
